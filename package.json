@@ -1,0 +1,19 @@
+{
+  "name": "factorialalgorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test":"test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Asaba Doreen",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "eslint": "^8.23.1",
+    "mocha": "^10.0.0"
+  }
+}
